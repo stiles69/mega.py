@@ -1,3 +1,10 @@
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+
+# Rogue Designs #
+
+## mega.py ##
+
+
 **NOTICE**: If you're reading this on GitHub.com please be aware this is a mirror of the primary remote located at https://code.richard.do/explore/projects.
 Please direct issues and pull requests there.
 
